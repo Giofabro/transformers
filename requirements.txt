@@ -1,6 +1,7 @@
 Flask
 Flask_Cors
+jsonify
 torch
 torchvision
 torchaudio
-transformers==4.*
+transformers
