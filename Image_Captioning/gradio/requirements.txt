@@ -1,1 +1,7 @@
-
+gradio
+numpy
+pandas
+transformers
+torch
+torchvision
+torchaudio
