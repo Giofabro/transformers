@@ -1,7 +1,0 @@
-Flask
-Flask_Cors
-jsonify
-torch
-torchvision
-torchaudio
-transformers
